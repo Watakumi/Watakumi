@@ -1,5 +1,5 @@
 
-
+![Watakumi](https://github-readme-stats.vercel.app/api?username=Watakumi&count_private=true&theme=radical)
 
 <!--
 **Watakumi/Watakumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
