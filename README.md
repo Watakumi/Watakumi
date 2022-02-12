@@ -4,8 +4,8 @@
 ![Watakumi](https://github-readme-stats.vercel.app/api?username=Watakumi&count_private=true&theme=radical)
 
 
-## Profile
-**Hi, My name is Watakumi.**
+## :star:Profile
+**🙋‍♂️Hi, My name is Watakumi.**
 
 - 🔭 I’m currently working on SightVisit Inc.
 - 🌱 I’m currently learning Ruby, Ruby On Rails, JavaScript, and TypeScript.
