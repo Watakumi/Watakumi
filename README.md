@@ -8,7 +8,6 @@
 ## :star:Profile
 **🙋‍♂️Hi, My name is Watakumi.**
 
-- 🔭 I’m currently working on SightVisit Inc.
 - 🌱 I’m currently learning Ruby, Ruby On Rails, JavaScript, and TypeScript.
 
 
