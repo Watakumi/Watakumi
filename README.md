@@ -1,10 +1,6 @@
 
 # :sunny:About
 
-## :cat:My Stats
-![Watakumi](https://github-readme-stats.vercel.app/api?username=Watakumi&count_private=true&theme=radical)
-
-
 ## :star:Profile
 **🙋‍♂️Hi, My name is Watakumi.**
 
