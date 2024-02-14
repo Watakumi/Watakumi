@@ -1,6 +1,4 @@
 
-# :sunny:About
-
 <img src="cat.svg" width="600"/>
 
 ## :star:Profile
