@@ -2,7 +2,7 @@
 <img src="cat.svg" width="600"/>
 
 ## :star:Profile
-**🙋‍♂️Hi, My name is Watakumi.**
+**🙋‍♂️Hi, I’m  Watakumi.**
 
 - 🌱 I’m currently learning Ruby, Ruby On Rails, JavaScript, and TypeScript.
 
