@@ -1,7 +1,7 @@
 
 # :sunny:About
 
-<img src="cat.svg" width="400"/>
+<img src="cat.svg" width="600"/>
 
 ## :star:Profile
 **🙋‍♂️Hi, My name is Watakumi.**
